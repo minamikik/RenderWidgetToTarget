@@ -1,0 +1,11 @@
+##########################
+# Unreal Generated Files #
+##########################
+Build
+Binaries
+DerivedDataCache
+Intermediate/**
+*.VC.db
+*.VC.opendb
+*.pdb
+.vs/
