@@ -8,3 +8,6 @@ This plugin bake UMG(Widget) to RenderTargetTexture using FWidgetRenderer(https:
 UE4.21.2  
 @pafuhana1213  
 http://pafuhana1213.hatenablog.com/entry/2017/05/21/171809
+
+UE4.24.2
+@minamikik
